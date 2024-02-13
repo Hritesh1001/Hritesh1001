@@ -2,7 +2,7 @@
 - I am Computer Science & Engineering Pre-Final Year Student at [KIIT University](http://kiit.ac.in/)👨‍🎓.
 - I am highly interested in DSA and CP👨‍💻.
 - Adding Coffee☕ to my Code.
-- 📜 [My Resume](https://drive.google.com/file/d/1acZ2_Dkvozu2Ak377mBkcg-zlCGaYivC/view?usp=sharing)
+- 📜 [My Resume](https://drive.google.com/file/d/1XDPavYeEgb7mnpJVevMdR2mWFlhBgmEa/view?usp=drive_link)
 
 
 <img src="https://media.giphy.com/media/IpknyEIpxz0K9AKXog/giphy.gif" width="620px"> 
