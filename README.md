@@ -1,6 +1,7 @@
 - Hi👋, I am Hritesh Bhardwaj
-- I am Computer Science & Engineering Pre-Final Year Student at [KIIT University](http://kiit.ac.in/)👨‍🎓.
-- I am highly interested in DSA and CP👨‍💻.
+- Currentely working as an AI Engineer at Bobble AI🧑‍💼.
+- Computer Science & Engineering Graduate from [KIIT University](http://kiit.ac.in/)👨‍🎓.
+- Highly interested in AI/ML, DSA and CP👨‍💻.
 - Adding Coffee☕ to my Code.
 - 📜 [My Resume](https://drive.google.com/file/d/1XDPavYeEgb7mnpJVevMdR2mWFlhBgmEa/view?usp=drive_link)
 
