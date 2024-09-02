@@ -3,7 +3,7 @@
 - Computer Science & Engineering Graduate from [KIIT University](http://kiit.ac.in/)👨‍🎓.
 - Highly interested in AI/ML, DSA and CP👨‍💻.
 - Adding Coffee☕ to my Code.
-- 📜 [My Resume](https://drive.google.com/file/d/1XDPavYeEgb7mnpJVevMdR2mWFlhBgmEa/view?usp=drive_link)
+- 📜 [My Resume](https://drive.google.com/file/d/1P-m_jK2eSdVaB3x1JWe3LHaeIanmMFtn/view?usp=sharing)
 
 
 <img src="https://media.giphy.com/media/IpknyEIpxz0K9AKXog/giphy.gif" width="620px"> 
