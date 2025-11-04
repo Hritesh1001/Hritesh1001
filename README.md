@@ -1,5 +1,5 @@
 - Hi👋, I am Hritesh Bhardwaj
-- Currentely working as an AI Engineer at Bobble AI🧑‍💼.
+- Currentely working as an AI Engineer at DevBytes🧑‍💼.
 - Computer Science & Engineering Graduate from [KIIT University](http://kiit.ac.in/)👨‍🎓.
 - Highly interested in AI/ML, DSA and CP👨‍💻.
 - Adding Coffee☕ to my Code.
