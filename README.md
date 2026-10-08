@@ -1,9 +1,9 @@
 - Hi👋, I am Hritesh Bhardwaj
-- Currentely working as an AI Engineer at DevBytes🧑‍💼.
+- Currentely working as an AI Engineer (L2) at Think Future Technologies Pvt. Ltd.🧑‍💼
 - Computer Science & Engineering Graduate from [KIIT University](http://kiit.ac.in/)👨‍🎓.
 - Highly interested in AI/ML, DSA and CP👨‍💻.
 - Adding Coffee☕ to my Code.
-- 📜 [My Resume](https://drive.google.com/file/d/1g6xyccRkEfhFA47N2HSQWHDY8NHPR_Fv/view?usp=sharing)
+- 📜 [My Resume](https://drive.google.com/file/d/1ew5roqAti7iGfDJ_B3pRIWzzINo1AS6v/view?usp=sharing)
 
 
 <img src="https://media.giphy.com/media/IpknyEIpxz0K9AKXog/giphy.gif" width="620px"> 
